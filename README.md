@@ -1,8 +1,5 @@
 # NLP-text-preprocessing-information-extraction-and-entity-extraction
-Novels are imported from the net then they are preprocessed Pos tagged and then there information is extracted , then there entities are recognised then relationship between entities are extracted.
- git remote add origin https://github.com/gautam2346/NLP-text-preprocessing-information-extraction-and-entity-extraction.git
-git branch -M main
-git push -u origin main
+
 
 #IMPORTING ALL THE RELEVANT LIBRARIES AND PACKAGES
 from nltk.tokenize import sent_tokenize, word_tokenize 
