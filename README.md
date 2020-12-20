@@ -4,6 +4,7 @@ Novels are imported from the net then they are preprocessed Pos tagged and then 
 git branch -M main
 git push -u origin main
 
+#IMPORTING ALL THE RELEVANT LIBRARIES AND PACKAGES
 from nltk.tokenize import sent_tokenize, word_tokenize 
 from nltk import FreqDist
 from matplotlib import pylab as plt
